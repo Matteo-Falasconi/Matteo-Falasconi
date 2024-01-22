@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello (●'◡'●)
 
-<!--
-**Matteo-Falasconi/Matteo-Falasconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 😁
+- My name is Matteo Falasconi
+- I am currently a second year computer science student at Heritage College 
+- I like coding and art
+- I have two cats and one dog
 
-Here are some ideas to get you started:
+## Interested in Learning
+- Web development
+- Creating databases
+- All about Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies (❁´◡`❁)
+- ⛷️ Skiing
+- 🚲 Biking
+- 🎮 Video Games
+- 🎨 Art
+
+
+
