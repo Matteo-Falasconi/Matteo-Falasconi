@@ -14,7 +14,7 @@
 ## Hobbies
 - ⛷️ Skiing
 - 🚲 Biking
-- 🎮 Video Games
+- 📚 Reading
 - 🎨 Art
 
 
