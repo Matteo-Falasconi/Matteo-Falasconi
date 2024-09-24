@@ -2,7 +2,7 @@
 
 ## About Me
 - My name is Matteo Falasconi
-- I am currently a second year computer science student at Heritage College 
+- I am currently a third year computer science student at Heritage College 
 - I like coding and art
 
 ## Interested in Learning
