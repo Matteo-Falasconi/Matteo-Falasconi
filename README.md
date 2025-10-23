@@ -2,12 +2,12 @@
 
 ## About Me
 - My name is Matteo Falasconi
-- I am currently a third year computer science student at Heritage College 
+- I am a graduated computer science student from Heritage College 
 - I like coding and art
 
 ## Interested in Learning
-- Web development
-- Creating databases
+- Game Development
+- Illustration and Concept Art
 - All about Git
 
 ## Hobbies
